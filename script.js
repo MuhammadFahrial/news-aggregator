@@ -1,4 +1,4 @@
-const API_KEY = "9ddab756845e4422a9d321f36b9b351a";
+const API_KEY = "...";
 
 let currentPage = 1;
 let currentCategory = null;
